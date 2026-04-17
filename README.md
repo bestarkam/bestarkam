@@ -1,16 +1,38 @@
-## Hi there 👋
+# AGANZE KAMWAMI ARMEL
 
-<!--
-**bestarkam/bestarkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Python orienté systèmes avec expérience en applications réelles (santé, ERP, data) et support utilisateur.
 
-Here are some ideas to get you started:
+## PROJETS PRINCIPAUX (PRIVES MAIS DISPONIBLES SUR DEMANDE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Système de Gestion Hospitalière
+
+* ERP médical complet (Django, PostgreSQL)
+* Gestion patients, laboratoire, pharmacie, facturation
+* API REST sécurisées et gestion des rôles
+
+### Plateforme Multi-Pharmacies
+
+* Application desktop (Django + Electron)
+* Gestion de stock avancée (≈95% précision)
+* Mode offline + intégration API
+
+### Analyse Prédictive en Santé
+
+* Dataset : +10 000 admissions
+* Modèles ML (Random Forest, XGBoost)
+* Dashboards interactifs
+
+## STACK TECHNIQUE
+
+Python | Django | PostgreSQL | Pandas | APIs | Git
+
+## CE QUE JE FAIS
+
+* Construire des systèmes complets
+* Résoudre des problèmes utilisateurs
+* Optimiser performance et données
+
+## CONTACT
+
+Email: bestarkam1234@gmail.com
+LinkedIn:www.linkedin.com/in/armel-aganze-151384241
