@@ -24,8 +24,7 @@ Développeur Python orienté systèmes avec expérience en applications réelles
 
 ## PROJETS PUBLIQUES
 1. SoinskENYA
-   https://github.com/bestarkam/soinkenya
-   Objectif : Ce projet Django a pour objectif de créer un site web dynamique destiné à faciliter le processus de prise en charge des patients congolais atteints de cancer souhaitant se faire soigner au Kenya
+   Ce projet (https://github.com/bestarkam/soinkenya) Django a pour objectif de créer un site web dynamique destiné à faciliter le processus de prise en charge des patients congolais atteints de cancer souhaitant se faire soigner au Kenya
 3. DFF
 4. DSD
 5. SD
