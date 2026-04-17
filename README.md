@@ -1,8 +1,8 @@
 # AGANZE KAMWAMI ARMEL
 
-Développeur Python orienté systèmes avec expérience en applications réelles (santé, ERP, data) et support utilisateur.
+Développeur Python orienté systèmes (Django, Data, Support utilisateur).
 
-## PROJETS PRINCIPAUX (PRIVES MAIS DISPONIBLES SUR DEMANDE)
+## PROJETS PRINCIPAUX (DISPONIBLES SUR DEMANDE)
 
 ### Système de Gestion Hospitalière
 
@@ -23,19 +23,45 @@ Développeur Python orienté systèmes avec expérience en applications réelles
 * Fonctionnalités communautaires (avis, discussions)
 
 ## PROJETS PUBLIQUES
-1. SoinskENYA : Ce projet (https://github.com/bestarkam/soinkenya) est une plateforme web Django qui met en relation des patients congolais atteints de cancer avec des structures médicales au Kenya, en leur proposant des services d'accompagnement complets pour leur voyage médical. Elle permet aux utilisateurs de consulter les services disponibles, de soumettre une demande de prise en charge, de lire des témoignages de patients et de contacter l'équipe directement depuis le site.
-   
-2. Cabinet_numerique : ce projet (https://github.com/bestarkam/cabinet_numerique) est une plateforme web d'engagement civique et juridique, conçue pour dénoncer les violences sexuelles dans l'est de la RDC et lutter contre l'impunité. Il vise concrètement à informer les victimes sur leurs droits, recueillir des témoignages et compiler des données statistiques pour soutenir des plaidoyers de justice.
-   
-3. Second_hand_market : ce projet (https://github.com/bestarkam/vente_0bjet_occasion) est une plateforme web développée avec Django destinée à faciliter la publication et la gestion d'annonces pour la location ou la revente d'objets de seconde main, incluant l'immobilier et les véhicules. Il allie une architecture robuste avec une base de données relationnelle et l'utilisation de Cloudinary, offrant à la fois des API JSON et des interfaces classiques pour gérer les données et les médias de manière sécurisée.
-   
-4. Ejima : Ce projet (https://github.com/bestarkam/ejima) est un site web vitrine interactif développé avec Django, permettant de présenter une gamme de prestations professionnelles et d'offrir aux visiteurs la possibilité de demander un service spécifique ou de vous contacter facilement.
-   
-5. Healthcare_predictive_analysis : Ce projet (https://github.com/bestarkam/healthcare_predictive_analysis) analyse plus de 10 000 admissions hospitalières pour en extraire des tendances clés et utilise des modèles de Machine Learning pour prédire les cas d'urgence avec 85% de précision. Son objectif est de transformer les données médicales en informations exploitables afin d'optimiser la gestion des ressources et d'améliorer la prise en charge des patients.
-   
-6. Barau_nk : Ce projet (https://github.com/bestarkam/baron_nk) est un système de gestion web complet (développé avec Django), spécifiquement conçu pour dématérialiser, centraliser et moderniser l'administration d'un Ordre des Avocats (Barreau). Il permet de gérer efficacement l'annuaire des avocats, le suivi institutionnel et disciplinaire (postes, suspensions, pénalités), tout en intégrant des modules de gestion financière et de communication (blog).
-   
-7. gestion_paiements_salon_coiffure : Ce projet (https://github.com/bestarkam/gestion_paiements_salon_coiffure) est une application web Django de gestion interne pour salons de coiffure, qui permet de suivre les employés, d'assigner et enregistrer leurs paiements (charges, cotisations, etc.), et d'obtenir en temps réel un tableau de bord des dettes et versements effectués.
+1. SoinskENYA
+https://github.com/bestarkam/soinkenya  
+Plateforme Django de mise en relation patients – structures médicales (cancer care)
+
+---
+
+2. Cabinet numérique
+https://github.com/bestarkam/cabinet_numerique  
+Plateforme de signalement et documentation des violences et accès à l’information juridique
+
+---
+
+3. Second Hand Market
+https://github.com/bestarkam/vente_0bjet_occasion  
+Marketplace Django pour annonces immobilières, véhicules et objets d’occasion
+
+---
+
+4. Ejima
+https://github.com/bestarkam/ejima  
+Site vitrine interactif pour services professionnels et demandes clients
+
+---
+
+5. Healthcare Predictive Analysis
+https://github.com/bestarkam/healthcare_predictive_analysis  
+Analyse de 10 000+ admissions hospitalières avec modèles ML (85% précision)
+
+---
+
+6. Barau NK
+https://github.com/bestarkam/baron_nk  
+Système de gestion numérique pour ordre des avocats (administration, finances, suivi)
+
+---
+
+7. Gestion salon de coiffure
+https://github.com/bestarkam/gestion_paiements_salon_coiffure  
+Gestion interne des paiements et employés avec dashboard en temps réel
 
 ## STACK TECHNIQUE
 
