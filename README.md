@@ -23,12 +23,19 @@ Développeur Python orienté systèmes avec expérience en applications réelles
 * Fonctionnalités communautaires (avis, discussions)
 
 ## PROJETS PUBLIQUES
-1. SoinskENYA
-   Ce projet (https://github.com/bestarkam/soinkenya) Django a pour objectif de créer un site web dynamique destiné à faciliter le processus de prise en charge des patients congolais atteints de cancer souhaitant se faire soigner au Kenya
-3. DFF
-4. DSD
-5. SD
-6. SD
+1. SoinskENYA : Ce projet (https://github.com/bestarkam/soinkenya) Django a pour objectif de créer un site web dynamique destiné à faciliter le processus de prise en charge des patients congolais atteints de cancer souhaitant se faire soigner au Kenya
+   
+2. Cabinet_numerique : ce projet (https://github.com/bestarkam/cabinet_numerique) est une plateforme web d'engagement civique et juridique, conçue pour dénoncer les violences sexuelles dans l'est de la RDC et lutter contre l'impunité. Il vise concrètement à informer les victimes sur leurs droits, recueillir des témoignages et compiler des données statistiques pour soutenir des plaidoyers de justice.
+   
+3. Second_hand_market : ce projet (https://github.com/bestarkam/vente_0bjet_occasion) est une plateforme web développée avec Django destinée à faciliter la publication et la gestion d'annonces pour la location ou la revente d'objets de seconde main, incluant l'immobilier et les véhicules. Il allie une architecture robuste avec une base de données relationnelle et l'utilisation de Cloudinary, offrant à la fois des API JSON et des interfaces classiques pour gérer les données et les médias de manière sécurisée.
+   
+4. Ejima : Ce projet (https://github.com/bestarkam/ejima) est un site web vitrine interactif développé avec Django, permettant de présenter une gamme de prestations professionnelles et d'offrir aux visiteurs la possibilité de demander un service spécifique ou de vous contacter facilement.
+   
+5. Healthcare_predictive_analysis : Ce projet (https://github.com/bestarkam/healthcare_predictive_analysis) analyse plus de 10 000 admissions hospitalières pour en extraire des tendances clés et utilise des modèles de Machine Learning pour prédire les cas d'urgence avec 85% de précision. Son objectif est de transformer les données médicales en informations exploitables afin d'optimiser la gestion des ressources et d'améliorer la prise en charge des patients.
+   
+6. Barau_nk : Ce projet (https://github.com/bestarkam/baron_nk) est un système de gestion web complet (développé avec Django), spécifiquement conçu pour dématérialiser, centraliser et moderniser l'administration d'un Ordre des Avocats (Barreau). Il permet de gérer efficacement l'annuaire des avocats, le suivi institutionnel et disciplinaire (postes, suspensions, pénalités), tout en intégrant des modules de gestion financière et de communication (blog).
+   
+7. gestion_paiements_salon_coiffure : Ce projet (https://github.com/bestarkam/gestion_paiements_salon_coiffure) est une application web Django de gestion interne pour salons de coiffure, qui permet de suivre les employés, d'assigner et enregistrer leurs paiements (charges, cotisations, etc.), et d'obtenir en temps réel un tableau de bord des dettes et versements effectués.
 
 ## STACK TECHNIQUE
 
