@@ -29,7 +29,7 @@ Plateforme Django de mise en relation patients – structures médicales (cancer
 
 ---
 
-2. Cabinet numérique
+### Cabinet numérique
 https://github.com/bestarkam/cabinet_numerique  
 Plateforme de signalement et documentation des violences et accès à l’information juridique
 
