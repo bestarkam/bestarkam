@@ -2,26 +2,6 @@
 
 Développeur Python orienté systèmes (Django, Data, Support utilisateur).
 
-## PROJETS PRINCIPAUX (DISPONIBLES SUR DEMANDE)
-
-### Système de Gestion Hospitalière
-
-* ERP médical complet (Django, PostgreSQL)
-* Gestion patients, laboratoire, pharmacie, facturation
-* API REST sécurisées et gestion des rôles
-
-### Plateforme Multi-Pharmacies
-
-* Application desktop (Django + Electron)
-* Gestion de stock avancée (≈95% précision)
-* Mode offline + intégration API
-
-### Plateforme E-Learning
-* Application web complète (Django)
-* Catalogue de cours, gestion des utilisateurs et suivi de progression
-* Intégration de contenus multimédias (vidéos, quiz, TP)
-* Fonctionnalités communautaires (avis, discussions)
-
 ## PROJETS PUBLIQUES
 ### SoinskENYA
 https://github.com/bestarkam/soinkenya  
@@ -62,6 +42,26 @@ Système de gestion numérique pour ordre des avocats (administration, finances,
 ### Gestion salon de coiffure
 https://github.com/bestarkam/gestion_paiements_salon_coiffure  
 Gestion interne des paiements et employés avec dashboard en temps réel
+
+## PROJETS PRINCIPAUX (DISPONIBLES SUR DEMANDE)
+
+### Système de Gestion Hospitalière
+
+* ERP médical complet (Django, PostgreSQL)
+* Gestion patients, laboratoire, pharmacie, facturation
+* API REST sécurisées et gestion des rôles
+
+### Plateforme Multi-Pharmacies
+
+* Application desktop (Django + Electron)
+* Gestion de stock avancée (≈95% précision)
+* Mode offline + intégration API
+
+### Plateforme E-Learning
+* Application web complète (Django)
+* Catalogue de cours, gestion des utilisateurs et suivi de progression
+* Intégration de contenus multimédias (vidéos, quiz, TP)
+* Fonctionnalités communautaires (avis, discussions)
 
 ## STACK TECHNIQUE
 
