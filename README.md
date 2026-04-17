@@ -23,7 +23,7 @@ Développeur Python orienté systèmes avec expérience en applications réelles
 * Fonctionnalités communautaires (avis, discussions)
 
 ## PROJETS PUBLIQUES
-1. SoinskENYA : Ce projet (https://github.com/bestarkam/soinkenya) Django a pour objectif de créer un site web dynamique destiné à faciliter le processus de prise en charge des patients congolais atteints de cancer souhaitant se faire soigner au Kenya
+1. SoinskENYA : Ce projet (https://github.com/bestarkam/soinkenya) est une plateforme web Django qui met en relation des patients congolais atteints de cancer avec des structures médicales au Kenya, en leur proposant des services d'accompagnement complets pour leur voyage médical. Elle permet aux utilisateurs de consulter les services disponibles, de soumettre une demande de prise en charge, de lire des témoignages de patients et de contacter l'équipe directement depuis le site.
    
 2. Cabinet_numerique : ce projet (https://github.com/bestarkam/cabinet_numerique) est une plateforme web d'engagement civique et juridique, conçue pour dénoncer les violences sexuelles dans l'est de la RDC et lutter contre l'impunité. Il vise concrètement à informer les victimes sur leurs droits, recueillir des témoignages et compiler des données statistiques pour soutenir des plaidoyers de justice.
    
