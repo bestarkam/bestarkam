@@ -69,9 +69,9 @@ Python | Django | PostgreSQL | Pandas | APIs | Git
 
 ## CE QUE JE FAIS
 
-* Construire des systèmes complets
-* Résoudre des problèmes utilisateurs
-* Optimiser performance et données
+* Développer des systèmes web complets (Django)
+* Résoudre des problèmes utilisateurs et fonctionnels
+* Optimiser performance, données et architecture applicative
 
 ## CONTACT
 
