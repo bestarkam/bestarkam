@@ -23,7 +23,7 @@ Développeur Python orienté systèmes (Django, Data, Support utilisateur).
 * Fonctionnalités communautaires (avis, discussions)
 
 ## PROJETS PUBLIQUES
-1. SoinskENYA
+### SoinskENYA
 https://github.com/bestarkam/soinkenya  
 Plateforme Django de mise en relation patients – structures médicales (cancer care)
 
@@ -35,31 +35,31 @@ Plateforme de signalement et documentation des violences et accès à l’inform
 
 ---
 
-3. Second Hand Market
+### Second Hand Market
 https://github.com/bestarkam/vente_0bjet_occasion  
 Marketplace Django pour annonces immobilières, véhicules et objets d’occasion
 
 ---
 
-4. Ejima
+### Ejima
 https://github.com/bestarkam/ejima  
 Site vitrine interactif pour services professionnels et demandes clients
 
 ---
 
-5. Healthcare Predictive Analysis
+### Healthcare Predictive Analysis
 https://github.com/bestarkam/healthcare_predictive_analysis  
 Analyse de 10 000+ admissions hospitalières avec modèles ML (85% précision)
 
 ---
 
-6. Barau NK
+### Barau NK
 https://github.com/bestarkam/baron_nk  
 Système de gestion numérique pour ordre des avocats (administration, finances, suivi)
 
 ---
 
-7. Gestion salon de coiffure
+### Gestion salon de coiffure
 https://github.com/bestarkam/gestion_paiements_salon_coiffure  
 Gestion interne des paiements et employés avec dashboard en temps réel
 
